@@ -1,0 +1,15 @@
+{
+  "name": "webpack-manifests",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": ["webpack","manifest"],
+  "author": "huhu",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "rimraf": "^3.0.0"
+  }
+}
